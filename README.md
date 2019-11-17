@@ -5,12 +5,6 @@ The ray tracer architecture is based on the skeleton ray tracer written by Sverr
 
 ## Chapters
 
-### 1 Design and Programming
-
-### 2 Some Essential Mathematics
-
-### 3 Bare-Bones Ray Tracing
-
 ### 4 Antialiasing
 
 ### 5 Sampling Techniques
