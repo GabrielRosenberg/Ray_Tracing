@@ -3,64 +3,64 @@ Based on the book Ray Tracing from the Ground Up by Kevin Suffern
 
 The ray tracer architecture is based on the skeleton ray tracer written by Sverre Kvaale. I will implement each chapter without order described in the chapters of the book. 
 
-###1 Design and Programming
+### 1 Design and Programming
 
-###2 Some Essential Mathematics
+### 2 Some Essential Mathematics
 
-###3 Bare-Bones Ray Tracing
+### 3 Bare-Bones Ray Tracing
 
-###4 Antialiasing
+### 4 Antialiasing
 
-###5 Sampling Techniques
+### 5 Sampling Techniques
 
-6 Mapping Samples to a Disk
+### 6 Mapping Samples to a Disk
 
-7 Mapping Samples to a Hemisphere
+### 7 Mapping Samples to a Hemisphere
 
-8 Perspective Viewing
+### 8 Perspective Viewing
 
-9 A Practical Viewing System
+### 9 A Practical Viewing System
 
-10 Depth of Field
+### 10 Depth of Field
 
-11 Non-Linear Projections
+### 11 Non-Linear Projections
 
-12 Stereoscopy
+### 12 Stereoscopy
 
-13 Theoretical Foundations
+### 13 Theoretical Foundations
 
-14 Lights and Materials
+### 14 Lights and Materials
 
-15 Specular reflection
+### 15 Specular reflection
 
-16 Shadows
+### 16 Shadows
 
-17 Ambient Occlusion
+### 17 Ambient Occlusion
 
-18 Area Lights
+### 18 Area Lights
 
-19 Ray-Object Intersections
+### 19 Ray-Object Intersections
 
-20 Affine Transformations
+### 20 Affine Transformations
 
-21 Transforming Objects
+### 21 Transforming Objects
 
-22 Regular Grids
+### 22 Regular Grids
 
-23 Triangle Meshes
+### 23 Triangle Meshes
 
-24 Mirror Reflection
+### 24 Mirror Reflection
 
-25 Glossy Reflection
+### 25 Glossy Reflection
 
-26 Global Illumination
+### 26 Global Illumination
 
-27 Simple Transparency
+### 27 Simple Transparency
 
-28 Realistic Transparency
+### 28 Realistic Transparency
 
-29 Texture Mapping
+### 29 Texture Mapping
 
-30 Procedural Textures
+### 30 Procedural Textures
 
-31 Noise-Based Textures
+### 31 Noise-Based Textures
