@@ -1,7 +1,9 @@
 # Ray Tracing
 Based on the book Ray Tracing from the Ground Up by Kevin Suffern
 
-The ray tracer architecture is based on the skeleton ray tracer written by Sverre Kvaale. I will implement each chapter without order described in the chapters of the book. 
+The ray tracer architecture is based on the skeleton ray tracer written by Sverre Kvaale. I will implement each chapter described in the book without order. After finnishing a chapter I'm going to briefly explain what I have implemented and what it practicly does for the renders done by the ray tracer. 
+
+## Chapters
 
 ### 1 Design and Programming
 
